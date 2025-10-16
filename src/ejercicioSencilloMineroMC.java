@@ -11,6 +11,7 @@ public class ejercicioSencilloMineroMC {
             System.out.println( " Has picado " + bloque2 + " bloques. " );
         }
         System.out.println("\n Has terminado de picar! ");
+        System.out.println(" Has picado " + bloques + " bloques. " );
         sc.close();
     }
 
